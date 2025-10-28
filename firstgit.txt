@@ -1,1 +1,2 @@
 this is the first step in GIT tutorial
+I will see the changes in status by changing this file
